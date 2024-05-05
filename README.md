@@ -8,7 +8,7 @@ id: record id
 image_url: This is civitai's image UUID/GUID and it's forms the image URL  
 user_id: this is not civitai's user ID, it's a foreign key to other table that contains civitai's usernames
 nsfw_level: nsfw_level  
-created_at: timestamp of when images was created/uploaded at civitai.com  
+created_at: timestamp of when image was created/uploaded at civitai.com  
 published_at: when image was made public  
 tag_ids: coma separated civitai image tag IDs  
 image_id: civitai's image ID  
