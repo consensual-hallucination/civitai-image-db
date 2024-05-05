@@ -2,6 +2,9 @@
 
 Part of collection of records for stable diffusion generated images from civitai.com  
 
+`by_username`: csv files with image links/data in folders by username  
+`all`: unsorted  
+
 Sample in csv format with following fields:  
 ```
 id: record id  
