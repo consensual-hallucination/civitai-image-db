@@ -1,5 +1,7 @@
 # civitai-image-db  
 
+Getting close to 4 million image URLs. 
+
 Part of collection of records for stable diffusion generated images from civitai.com  
 
 `by_username`: csv files with image links/data in folders by username  
