@@ -27,6 +27,6 @@ Full image URL can be constructed as follows:
 
 Note: You will get `404` if an image was deleted.  
   
-If you need links for any specific usernames feel free to ask.  
+If you need links for any specific username or actual images/metadata feel free to ask as I likely already have them - saves downloading again.  
 
 Mind that images may be NSFW or otherwise disturbing.   
