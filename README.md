@@ -1,6 +1,6 @@
 # civitai-image-db  
 
-Getting close to 4 million image URLs. 
+Getting close to 4 million image URLs - updated weekly.
 
 Part of collection of records for stable diffusion generated images from civitai.com  
 
