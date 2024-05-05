@@ -10,7 +10,7 @@ user_id: this is not civitai's user ID, it's a foreign key to other table that c
 nsfw_level: nsfw_level  
 created_at: timestamp of when image was created/uploaded at civitai.com  
 published_at: when image was made public  
-tag_ids: coma separated civitai image tag IDs  
+tag_ids: comma separated civitai image tag IDs  
 image_id: civitai's image ID  
 ```
 
