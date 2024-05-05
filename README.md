@@ -15,7 +15,7 @@ image_id: civitai's image ID
 ```
 
 
-`image_id`: originally I had downloaded images with corresponding .txt file with its metadata/prompts but this took a lot of storage. Metadata for the most part is already in the image file and if any additional data is needed this is what the `image_id` if for, you can fetch it.  
+`image_id`: originally I had downloaded images with corresponding .txt file with its metadata/prompts but this took a lot of storage. Metadata for the most part is already in the image file and if any additional data is needed this is what the `image_id` is for, you can fetch it.  
 
 `image_url`  
 Full image URL can be constructed as follows:  
